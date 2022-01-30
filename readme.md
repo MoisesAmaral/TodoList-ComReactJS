@@ -1,3 +1,7 @@
+# meu primeiro app desenvolvido com react...
+- foi muito interesante este aprendizado
+- Uma maneira nova de programar
+
 # Histórias de usuários do nosso aplicativo
 No desenvolvimento de software, uma história de usuário é um objetivo acionável da perspectiva do usuário. Definir histórias de usuários antes de começarmos nosso trabalho nos ajudará a focar nosso trabalho. Nosso aplicativo deve cumprir as seguintes histórias:
 
